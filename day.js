@@ -1,5 +1,3 @@
-const {Client} = require('pg');
-
 const tools = require('./tools.js');
 const subject = require('./subject.js');
 
